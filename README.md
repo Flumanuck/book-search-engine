@@ -9,11 +9,11 @@
 
 ## Description
 
-This is a website that allows the user to inputa book title and see information about said books. There is also functionality to log in and save your favorite books.
+This is a website that allows the user to input a book title and see information about said books. There is also functionality to log in and save your favorite books.
 
 ## Installation
 
-Type in 'npm run install' to install the needed dependancies.
+Type in 'npm run install' to install the needed dependencies.
 
 ## Usage
 
@@ -21,4 +21,8 @@ Type in the book which you want to search into the search bar and then press the
 
 ## Screenshot
 
+![Screenshot](screenshot.PNG)
+
 ## Deployed Application
+
+https://book-src.herokuapp.com/
